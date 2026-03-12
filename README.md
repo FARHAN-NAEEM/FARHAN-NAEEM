@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FARHAN-NAEEM&theme=radical&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FARHAN-NAEEM&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
