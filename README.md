@@ -6,7 +6,12 @@
 
 ## 🌈 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,js,ts,html,css,nodejs,express,nestjs,mongodb,wordpress,joomla,git,github,docker,postman,figma,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,js,ts,html,css,nodejs,express,nestjs,mongodb,git,github,docker,postman,figma,linux,vscode" />
+  <br/>
+  <!-- Replacing missing icons with shields.io badges -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
@@ -14,7 +19,7 @@
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| [CoachingKit](https://github.com/FARHAN-NAEEM) | A large SaaS platform for coaching centers | React, Next.js, Node.js, NestJS, MongoDB |
+| [CoachingKit](https://github.com/FARHAN-NAEEM) | Large SaaS platform for coaching centers | React, Next.js, Node.js, NestJS, MongoDB |
 | [Teacher AI](https://github.com/FARHAN-NAEEM) | AI-powered SaaS platform for teachers | Next.js, Node.js, NestJS, MongoDB |
 | CMS Websites | Multiple WordPress & Joomla websites for clients | WordPress, Joomla, PHP, CSS, JS |
 
@@ -35,10 +40,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub followers](https://img.shields.io/github/followers/FARHAN-NAEEM?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/FARHAN-NAEEM?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/FARHAN-NAEEM?style=for-the-badge)
+## 🏆 GitHub Achievements (Alternative to Trophies)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/FARHAN-NAEEM?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/FARHAN-NAEEM?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/FARHAN-NAEEM?style=for-the-badge" alt="Forks" />
+</p>
 
 ---
 
