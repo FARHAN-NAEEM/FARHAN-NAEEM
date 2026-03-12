@@ -8,27 +8,29 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,js,ts,html,css,nodejs,express,nestjs,mongodb,git,github,docker,postman,figma,linux,vscode" />
   <br/>
-  <!-- Replacing missing icons with shields.io badges -->
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <!-- Shields.io badges for missing icons with hover color -->
+  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+<p align="center">
 | Project | Description | Tech Stack |
 |---------|------------|------------|
 | [CoachingKit](https://github.com/FARHAN-NAEEM) | Large SaaS platform for coaching centers | React, Next.js, Node.js, NestJS, MongoDB |
 | [Teacher AI](https://github.com/FARHAN-NAEEM) | AI-powered SaaS platform for teachers | Next.js, Node.js, NestJS, MongoDB |
 | CMS Websites | Multiple WordPress & Joomla websites for clients | WordPress, Joomla, PHP, CSS, JS |
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FARHAN-NAEEM&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN-NAEEM&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FARHAN-NAEEM&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN-NAEEM&layout=compact&theme=dark&hide_border=true&langs_count=10" width="45%" />
 </p>
 
 ---
@@ -40,11 +42,11 @@
 
 ---
 
-## 🏆 GitHub Achievements (Alternative to Trophies)
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FARHAN-NAEEM?style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/FARHAN-NAEEM?style=for-the-badge" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/FARHAN-NAEEM?style=for-the-badge" alt="Forks" />
+  <a href="#"><img src="https://img.shields.io/github/followers/FARHAN-NAEEM?style=for-the-badge&color=ff69b4" alt="Followers" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/FARHAN-NAEEM?style=for-the-badge&color=1e90ff" alt="Stars" /></a>
+  <a href="#"><img src="https://img.shields.io/github/forks/FARHAN-NAEEM?style=for-the-badge&color=32cd32" alt="Forks" /></a>
 </p>
 
 ---
@@ -61,13 +63,13 @@ Hi! I'm **Farhan Naeem**, a passionate **Full-Stack Web Developer** building sca
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:farhannaeem.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-farhannaeem.pro@gmail.com-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-farhannaeem.pro@gmail.com-ff4500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/farhannaeem977/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Naeem-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Naeem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/FARHAN-NAEEM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FARHAN--NAEEM-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-FARHAN--NAEEM-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -75,7 +77,7 @@ Hi! I'm **Farhan Naeem**, a passionate **Full-Stack Web Developer** building sca
 
 ## 👣 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FARHAN-NAEEM&color=blueviolet" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=FARHAN-NAEEM&color=ff69b4" alt="Visitor Counter" />
 </p>
 
 ---
