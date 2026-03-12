@@ -36,9 +36,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FARHAN-NAEEM&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/FARHAN-NAEEM?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/FARHAN-NAEEM?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/FARHAN-NAEEM?style=for-the-badge)
 
 ---
 
