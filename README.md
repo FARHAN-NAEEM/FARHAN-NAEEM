@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Farhan+Naeem,+Full-Stack+Web+Developer;Building+modern+scalable+apps+with+MERN+Stack+%26+Next.js;NestJS+lover+and+CMS+pro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Farhan+Naeem;Full-Stack+Web+Developer;Building+Scalable+Web+Apps+with+MERN+Stack+%26+Next.js;NestJS+Lover+and+CMS+Pro" />
 </p>
 
 ---
